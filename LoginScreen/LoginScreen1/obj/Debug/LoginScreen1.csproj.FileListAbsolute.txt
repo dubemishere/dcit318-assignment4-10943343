@@ -1,0 +1,9 @@
+c:\users\hubmart\documents\dcit318-assignment4-10943347\LoginScreen1\LoginScreen1\bin\Debug\LoginScreen1.exe.config
+c:\users\hubmart\documents\dcit318-assignment4-10943347\LoginScreen1\LoginScreen1\bin\Debug\LoginScreen1.exe
+c:\users\hubmart\documents\dcit318-assignment4-10943347\LoginScreen1\LoginScreen1\bin\Debug\LoginScreen1.pdb
+c:\users\hubmart\documents\dcit318-assignment4-10943347\LoginScreen1\LoginScreen1\obj\Debug\LoginScreen1.csprojResolveAssemblyReference.cache
+c:\users\hubmart\documents\dcit318-assignment4-10943347\LoginScreen1\LoginScreen1\obj\Debug\LoginScreen1.Form1.resources
+c:\users\hubmart\documents\dcit318-assignment4-10943347\LoginScreen1\LoginScreen1\obj\Debug\LoginScreen1.Properties.Resources.resources
+c:\users\hubmart\documents\dcit318-assignment4-10943347\LoginScreen1\LoginScreen1\obj\Debug\LoginScreen1.csproj.GenerateResource.Cache
+c:\users\hubmart\documents\dcit318-assignment4-10943347\LoginScreen1\LoginScreen1\obj\Debug\LoginScreen1.exe
+c:\users\hubmart\documents\dcit318-assignment4-10943347\LoginScreen1\LoginScreen1\obj\Debug\LoginScreen1.pdb
